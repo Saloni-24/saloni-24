@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Saloni Duggal</h1>
+
 <h1 align="center">Hi <img src="https://gifdb.com/images/high/cute-wave-emoji-hand-59s88kk0zj3xho40.gif" width="30px">, I'm Saloni duggal</h1>
 <h3 align="center">I'm a full-stack developer specializing in the MERN stack (MongoDB, Express.js, React.js, Node.js). I love building interactive web applications, optimizing performance, and solving real-world problems with clean and scalable code.</h3>
 
@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently mastering **Web Performance Optimization**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Sakshi-arora123](https://github.com/Sakshi-arora123)
+- 👨‍💻 All of my projects are available at [https://github.com/Saloni-24](https://github.com/Saloni-24)
 
 - 📫 How to reach me **saloniduggal48@gmail.com**
 
